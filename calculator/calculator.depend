@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665318554 source:d:\fcia-hu\work,acm\calculator\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"calc.h"
+
+1665305137 d:\fcia-hu\work,acm\calculator\calc.h
+	<bits/stdc++.h>
+
+1665306207 source:d:\fcia-hu\work,acm\calculator\calc.cpp
+	"calc.h"
+
