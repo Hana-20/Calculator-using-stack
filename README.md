@@ -1,9 +1,9 @@
 # Calculator-using-stack
-it's  simple calculator which has the basic operations.
-**. addition**.
-**. subtruction** .
-**. multiplication** .
-**- it can handel ** .
-      invalid excprestions.
-      parentheses.
+it's  simple calculator which has the basic operations.<br />
+**. addition**<br />
+**. subtruction**<br />
+**. multiplication**<br />
+**- it can handel** <br />
+      invalid excprestions<br />
+      parentheses<br />
       floating numbers.
