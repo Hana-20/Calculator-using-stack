@@ -1,5 +1,5 @@
 # Calculator-using-stack
-it's  simple calculator which has the basic operations.<br />
+##it's  simple calculator which has the basic operations.<br />
 **. addition**<br />
 **. subtruction**<br />
 **. multiplication**<br />
